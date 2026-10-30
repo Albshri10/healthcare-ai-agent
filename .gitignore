@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+*.key
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.vscode/
+

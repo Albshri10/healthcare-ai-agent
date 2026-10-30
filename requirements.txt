@@ -1,0 +1,11 @@
+# Data processing
+pandas
+numpy
+openpyxl
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter kernel
+ipykernel
